@@ -6,3 +6,10 @@ The dataset used is a manipulation of MsCOCO captions, that gives a set of match
 In order to get access to the dataset you just need to run the file inside ```.\code\``` with this command:
 
 ```python3 create_dataset.py ```
+
+# Experiments 
+The folder ```.\code\``` contains four Jupyter notebooks using the aforementioned dataset.
+
+```Data exploration ``` is just a notebook with some plots that gives information on how the data looks.
+
+
