@@ -2,4 +2,5 @@ This Github Repository contains experiments on Knowledge Distillation in compari
 
 # Dataset
 The dataset used is a manipulation of MsCOCO captions, in order to get access to the dataset you just need to run this command:
+
 ```python3 create_dataset.py ```
